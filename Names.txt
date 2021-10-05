@@ -79,3 +79,5 @@ Minmin
 Steve
 Sephiroth
 Pyra
+Kazuya
+Sora
